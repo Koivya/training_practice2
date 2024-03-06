@@ -1,0 +1,15 @@
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\bin\Debug\net8.0\Task2_2_4.exe
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\bin\Debug\net8.0\Task2_2_4.deps.json
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\bin\Debug\net8.0\Task2_2_4.runtimeconfig.json
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\bin\Debug\net8.0\Task2_2_4.dll
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\bin\Debug\net8.0\Task2_2_4.pdb
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.AssemblyInfoInputs.cache
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.AssemblyInfo.cs
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.csproj.CoreCompileInputs.cache
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.sourcelink.json
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.dll
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\refint\Task2_2_4.dll
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.pdb
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\Task2_2_4.genruntimeconfig.cache
+C:\Users\k0val\RiderProjects\УчебнаяПрактика2\Task2_2_4\obj\Debug\net8.0\ref\Task2_2_4.dll
