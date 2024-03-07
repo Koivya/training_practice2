@@ -1,0 +1,14 @@
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\bin\Debug\net8.0\Task2_4_1.exe
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\bin\Debug\net8.0\Task2_4_1.deps.json
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\bin\Debug\net8.0\Task2_4_1.runtimeconfig.json
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\bin\Debug\net8.0\Task2_4_1.dll
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\bin\Debug\net8.0\Task2_4_1.pdb
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.AssemblyInfoInputs.cache
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.AssemblyInfo.cs
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.csproj.CoreCompileInputs.cache
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.dll
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\refint\Task2_4_1.dll
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.pdb
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\Task2_4_1.genruntimeconfig.cache
+C:\Users\gr631_koivya\source\repos\УчебнаяПрактика2\Task2_4_1\obj\Debug\net8.0\ref\Task2_4_1.dll
