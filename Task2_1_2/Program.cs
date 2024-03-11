@@ -7,7 +7,7 @@
             int[] candidates = { 10, 1, 2, 7, 6, 1, 5 };
             int target = 8;
 
-            List<List<int>> result = CombinationSum2(candidates, target);
+            List<List<int>> result = CombinationSum(candidates, target);
             foreach (var i in result)
             {
                 foreach (var j in i)
@@ -19,7 +19,7 @@
             }
         }
 
-        public static List<List<int>> CombinationSum2(int[] candidates, int target)
+        public static List<List<int>> CombinationSum(int[] candidates, int target)
         {
             var result = new List<List<int>>();
             Array.Sort(candidates);
