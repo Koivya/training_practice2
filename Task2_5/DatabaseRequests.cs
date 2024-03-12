@@ -163,7 +163,7 @@ namespace Task2_5
             while (reader.Read())
             {
                 Console.WriteLine(
-                    $"Id: {reader[0]} Фамилия водителя: {reader[1]} Имя: {reader[2]} Тип машины: {reader[3]} Название: {reader[4]} Гос. номер: {reader[5]} Маршрут: {reader[6]} Кол-во пассажиров: {reader[7]}");
+                    $"Id: {reader[0]} Фамилия: {reader[1]} Имя: {reader[2]} Тип машины: {reader[3]} Название: {reader[4]} Гос. номер: {reader[5]} Маршрут: {reader[6]} Кол-во пассажиров: {reader[7]}");
             }
         }
 
@@ -184,7 +184,7 @@ namespace Task2_5
             while (reader.Read())
             {
                 Console.WriteLine(
-                    $"Id: {reader[0]} Фамилия водителя: {reader[1]} Имя: {reader[2]} Тип машины: {reader[3]} Название: {reader[4]} Гос. номер: {reader[5]} Маршрут: {reader[6]} Кол-во пассажиров: {reader[7]}");
+                    $"Id: {reader[0]} Фамилия: {reader[1]} Имя: {reader[2]} Тип машины: {reader[3]} Название: {reader[4]} Гос. номер: {reader[5]} Маршрут: {reader[6]} Кол-во пассажиров: {reader[7]}");
             }
         }
     }
