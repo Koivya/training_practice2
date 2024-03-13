@@ -11,7 +11,7 @@ namespace Task2_5
         // возвращает строку подключения к БД
         private static string GetConnectionString()  
         {
-            return @"Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=qwerty";
+            return @"Host=10.30.0.137;Port=5432;Database=gr631_koivya;Username=gr631_koivya;Password=742516809213@cJ";
         }
         
         // проверяет, есть ли уже открытое соединение с БД, если нет, то открывает соединение с БД
