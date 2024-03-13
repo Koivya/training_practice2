@@ -2,60 +2,45 @@
 {
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            int[] candidates = { 10, 1, 2, 7, 6, 1, 5 };
-            int target = 8;
+            int[] candidates = { 2, 5, 2, 1, 2 };
+            int target = 5;
+            
+            List<List<int>> result = new List<List<int>>();
 
-            List<List<int>> result = CombinationSum(candidates, target);
-            foreach (var i in result)
-            {
-                foreach (var j in i)
-                {
-                    Console.Write(j + " ");
-                }
-
-                Console.WriteLine();
-            }
-        }
-
-        public static List<List<int>> CombinationSum(int[] candidates, int target)
-        {
-            var result = new List<List<int>>();
             Array.Sort(candidates);
-
-            for (int i = 0; i < candidates.Length; i++)
+            FindCombinations(candidates, target, 0, new List<int>(), result);
+            
+            foreach (var combination in result)
             {
-                if (i > 0 && candidates[i] == candidates[i - 1])
-                    continue;
-
-                var combination = new List<int> { candidates[i] };
-
-                Backtrack(candidates, i + 1, target - candidates[i], combination, result);
+                Console.WriteLine(string.Join(" ", combination));
             }
-
-            return result;
         }
 
-        public static void Backtrack(int[] candidates, int start, int target, List<int> combination,
-            List<List<int>> result)
+        static void FindCombinations(int[] candidates, int target, int start, List<int> current, List<List<int>> result)
         {
             if (target == 0)
             {
-                result.Add(new List<int>(combination));
+                result.Add(new List<int>(current));
                 return;
             }
 
             for (int i = start; i < candidates.Length; i++)
             {
+                if (target - candidates[i] < 0)
+                {
+                    break;
+                }
+
                 if (i > start && candidates[i] == candidates[i - 1])
+                {
                     continue;
+                }
 
-                combination.Add(candidates[i]);
-
-                Backtrack(candidates, i + 1, target - candidates[i], combination, result);
-
-                combination.RemoveAt(combination.Count - 1);
+                current.Add(candidates[i]);
+                FindCombinations(candidates, target - candidates[i], i + 1, current, result);
+                current.RemoveAt(current.Count - 1);
             }
         }
     }
